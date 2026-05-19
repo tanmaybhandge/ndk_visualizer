@@ -76,8 +76,8 @@ Get from zero to a rendered DR diagram in under 2 minutes.
 ### 2. Clone the repository
 
 ```bash
-git clone https://github.com/<your-org>/ndk-architecture-visualizer.git
-cd ndk-architecture-visualizer
+git clone https://github.com/tanmaybhandge/ndk_visualizer.git
+cd ndk-visualizer
 ```
 
 ### 3. Install dependencies
