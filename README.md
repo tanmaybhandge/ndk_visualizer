@@ -250,13 +250,7 @@ ndk-architecture-visualizer/
 
 ## Contributing
 
-This is currently an internal project. PRs welcome from Nutanix engineering. For new rules, add to `RULES` in `ndk_relationship_engine.py` with a clear `id`, `severity`, `kind` filter, and human-readable `message`.
-
----
-
-## License
-
-Internal use — Nutanix. Not for external distribution at this stage.
+This is currently an internal project. For new rules, add to `RULES` in `ndk_relationship_engine.py` with a clear `id`, `severity`, `kind` filter, and human-readable `message`.
 
 ---
 
